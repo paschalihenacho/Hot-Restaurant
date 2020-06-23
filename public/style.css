@@ -1,0 +1,31 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+.jumbotron {
+    background-image: url(./restaurant.jpg);
+    background-size: cover;
+    height: 350px;
+    background-position: 20%;
+    color: white;
+    font-family: "Satisfy", cursive;
+}
+.display {
+    font-size: 80px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.lead {
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 30px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.btn {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+
+
+
